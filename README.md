@@ -6,7 +6,7 @@ If you want to use OD-YOLO, please pip ultralytics.
 
 After pip is finished, please replace the ultralytics  you just installed with this one.
 
-The OD-YOLO network is shown as yolov8n_OD-YOLO-YOLO.yaml.
+The OD-YOLO network is shown as yolov8n_OD-YOLO.yaml.
 
 If you want to see the  code for OD-YOLO's components, you can open the python file under ultralytics/nn/modules.
 
