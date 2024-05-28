@@ -14,4 +14,4 @@ For ultralytics dataset training format you can refer to this URL https://docs.u
 
 You can use command in the terminal:
 
-yolo classify train data=yourdataset model=yolov8s-SC-YOLO.yaml epochs=XXXX batch=XXXXX 
+yolo classify train data=yourdataset model=yolov8n_OD-YOLO.yaml epochs=XXXX batch=XXXXX 
